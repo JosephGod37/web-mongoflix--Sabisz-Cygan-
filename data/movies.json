@@ -1,0 +1,12 @@
+[
+  { "_id": 1, "tytul": "Inception", "rok": 2010, "gatunek": "Sci-Fi", "czy_premium": true, "licznik_odtworzen": 15342 },
+  { "_id": 2, "tytul": "Interstellar", "rok": 2014, "gatunek": "Sci-Fi", "czy_premium": true, "licznik_odtworzen": 18721 },
+  { "_id": 3, "tytul": "Gladiator", "rok": 2000, "gatunek": "Action", "czy_premium": false, "licznik_odtworzen": 11234 },
+  { "_id": 4, "tytul": "Parasite", "rok": 2019, "gatunek": "Thriller", "czy_premium": true, "licznik_odtworzen": 14222 },
+  { "_id": 5, "tytul": "The Dark Knight", "rok": 2008, "gatunek": "Action", "czy_premium": false, "licznik_odtworzen": 22310 },
+  { "_id": 6, "tytul": "Forrest Gump", "rok": 1994, "gatunek": "Drama", "czy_premium": false, "licznik_odtworzen": 19876 },
+  { "_id": 7, "tytul": "Whiplash", "rok": 2014, "gatunek": "Drama", "czy_premium": true, "licznik_odtworzen": 9876 },
+  { "_id": 8, "tytul": "The Matrix", "rok": 1999, "gatunek": "Sci-Fi", "czy_premium": false, "licznik_odtworzen": 25000 },
+  { "_id": 9, "tytul": "The Social Network", "rok": 2010, "gatunek": "Drama", "czy_premium": false, "licznik_odtworzen": 8765 },
+  { "_id": 10, "tytul": "Joker", "rok": 2019, "gatunek": "Crime", "czy_premium": true, "licznik_odtworzen": 17654 }
+]

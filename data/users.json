@@ -1,0 +1,7 @@
+[
+  { "_id": 1, "imie": "Jan", "nazwisko": "Kowalski", "email": "jan@mail.com", "kraj": "Polska", "wiek": 28, "czy_premium": false },
+  { "_id": 2, "imie": "Anna", "nazwisko": "Nowak", "email": "anna@mail.com", "kraj": "Polska", "wiek": 32, "czy_premium": true },
+  { "_id": 3, "imie": "Tomasz", "nazwisko": "Wiśniewski", "email": "tomasz@mail.com", "kraj": "Niemcy", "wiek": 40, "czy_premium": false },
+  { "_id": 4, "imie": "Kasia", "nazwisko": "Mazur", "email": "kasia@mail.com", "kraj": "Francja", "wiek": 25, "czy_premium": true },
+  { "_id": 5, "imie": "Marek", "nazwisko": "Lewandowski", "email": "marek@mail.com", "kraj": "Hiszpania", "wiek": 35, "czy_premium": false }
+]
